@@ -2,6 +2,14 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Taipoon&show_icons=true)
 
+###  🌱 skills I've Experienced
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,firebase,py,html,css,cs,git,github,unity,gcp,aws)](https://skillicons.dev)
+
+|![](https://github-readme-stats-six-azure.vercel.app/api?username=Taipoon&show_icons=true&count_private=true&theme=dark&hide_border=true)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taipoon&theme=dark)|
+| :---: | :---: |
+|![](https://github-readme-stats-six-azure.vercel.app/api/top-langs/?username=Taipoon&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)|![](https://github-readme-streak-stats.herokuapp.com/?user=Taipoon&theme=dark&hide_border=true)|
+
 <!--
 **Taipoon/Taipoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
