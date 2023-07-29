@@ -1,6 +1,6 @@
 ### Github Stats 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Taipoon&show_icons=true)
 
 <!--
 **Taipoon/Taipoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
