@@ -1,8 +1,4 @@
-### Github Stats 👋
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Taipoon&show_icons=true)
-
-###  🌱 skills I've Experienced
+### skills
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,firebase,py,html,css,cs,git,github,unity,gcp,aws)](https://skillicons.dev)
 
