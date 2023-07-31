@@ -1,11 +1,13 @@
 # Taipoon
 
 ## GitHub Stats
-|![](https://github-readme-stats-six-azure.vercel.app/api?username=Taipoon&show_icons=true&count_private=true&theme=dark&hide_border=true)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taipoon&theme=dark)|
-| :---: | :---: |
-|![](https://github-readme-stats-six-azure.vercel.app/api/top-langs/?username=Taipoon&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)|![](https://github-readme-streak-stats.herokuapp.com/?user=Taipoon&theme=dark&hide_border=true)|
+
+![](https://github-readme-stats-six-azure.vercel.app/api?username=Taipoon&show_icons=true&count_private=true&theme=dark&hide_border=true)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taipoon&theme=dark)
 
 ## Skills
+
 [![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,react,vue,php,laravel,python,django,flask,go,cs,unity,mysql,firebase,aws,docker,unity)](https://skillicons.dev)
 
 ![](https://github-readme-stats-six-azure.vercel.app/api/top-langs/?username=Taipoon&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
